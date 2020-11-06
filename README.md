@@ -1,5 +1,7 @@
 # htt
-Hubs Theater Tools
+## Hubs Theater Tools
+
+Hubs Theater Tools are developed by Nils Corte (Coding) and Roman Senkl at the [Academy for Theatre and Digitality](https://theater.digital/) in Dortmund.
 
 Want to know which VR-Systems are supported by which browser:
 https://webvr.rocks/
