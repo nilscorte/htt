@@ -1,10 +1,17 @@
 # htt
 ## Hubs Theater Tools
 
-Hubs Theater Tools are developed by Nils Corte (Coding) and Roman Senkl at the [Academy for Theatre and Digitality](https://theater.digital/) in Dortmund.
+Hubs Theater Tools are currently developed by Nils Corte (Coding) and Roman Senkl at the [Academy for Theatre and Digitality](https://theater.digital/) in Dortmund.
+Their purpose is to expand [Mozilla Hubs](https://hubs.mozilla.com) with an easy to use motion capturing and playback tool for hubs avatars.
+Furthermore our long time goals are support for Inverse Kinematics and full body tracking / eye tracking / facial tracking as these are vital parts to bring the performers expressions to life.
 
-Want to know which VR-Systems are supported by which browser:
-https://webvr.rocks/
+Why Hubs? Because we love HUBS!!! It's build on [THREE.js](https://threejs.org/) using [AFRAME](https://aframe.io) and works with all webvr compatible browsers.
+
+If you want to visit us (or our virtual selves): Visit our [virtual lab](https://hubs.mozilla.com/3S5crQY).
+
+## Considerations
+
+Want to know which VR-Systems are supported by which browser: https://webvr.rocks/
 
 > Controllers with 6 degrees of freedom (6DoF) have both rotational and positional tracking. Unlike controllers with 3DoF which are constrained to orientation, controllers with 6DoF are able to move freely in 3D space. 6DoF allows us to reach forward, behind our backs, move our hands across our body or close to our face. Having 6DoF is like reality where we have both hands and arms. 6DoF also applies to the headset and additional trackers (e.g., feet, props). Having 6DoF is a minimum for providing a truly immersive VR experience.
 (https://aframe.io/docs/1.0.0/introduction/interactions-and-controllers.html#adding-6dof-controllers-vive-controls-oculus-touch-controls)
