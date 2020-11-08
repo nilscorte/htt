@@ -20,3 +20,21 @@ This beeing said we decided to use 6DoF (six degrees of freedom) Controller comp
 HTC Vive and Oculus Rift with Touch provide 6DoF and controllers for both hands. 
 HTC Vive also provides trackers for tracking additional objects in the real world into VR.
 
+## Install
+
+In order to playback hubs avatars via the querystring parameter ?bot=true we first need to install some tools (github, nodejs, hubs-master, some node libraries)
+
+1. Open a terminal and find out if you have already installed git (to get git goto https://git-scm.com/downloads)
+> git --version
+
+2. Find out if you have already installed nodejs
+> node -v (to get nodejs goto https://nodejs.org/en/download/)
+
+3. npm is distributed with Node.js- which means that when you download Node.js, you automatically get npm installed on your computer. To be on the safe side lets check if npm is installed by typing
+> npm -v
+
+4. To get the latest version of npm
+> npm install npm@latest -g
+
+5. 
+
