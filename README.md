@@ -27,7 +27,7 @@ In order to playback hubs avatars via the querystring parameter ?bot=true we fir
 1. Open a terminal and find out if you have already installed git (to get git goto https://git-scm.com/downloads)
 > git --version
 
-2. Find out if you have already installed nodejs
+2. Find out if you have already installed nodejs (version 12 or above is recommanded)
 > node -v (to get nodejs goto https://nodejs.org/en/download/)
 
 3. npm is distributed with Node.js- which means that when you download Node.js, you automatically get npm installed on your computer. To be on the safe side lets check if npm is installed by typing
@@ -36,5 +36,7 @@ In order to playback hubs avatars via the querystring parameter ?bot=true we fir
 4. To get the latest version of npm
 > npm install npm@latest -g
 
-5. 
+5. Next clone mozilla hubs repository to your computer
+> git clone https://github.com/mozilla/hubs/
 
+6. Change directory to [your repo directory]/scripts/bot
