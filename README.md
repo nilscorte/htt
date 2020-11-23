@@ -66,3 +66,5 @@ Configuration:
 
 Warranty:
 Peppers Holosuite - Hubs Avatar Recorder is currently developed at the Akademie für Theater und Digitalität Dortmund. We do not warrant that this pre-release software will meet your requirements, the operation or output of the pre-release software will be error-free, accurate, reliable, complete or uninterrupted. Peppers Holosuite is not obligated to support, update or upgrade the Pre-Release Software.
+
+![Console](/images/console.png)
