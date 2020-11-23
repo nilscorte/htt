@@ -20,7 +20,7 @@ This beeing said we decided to use 6DoF (six degrees of freedom) Controller comp
 HTC Vive and Oculus Rift with Touch provide 6DoF and controllers for both hands. 
 HTC Vive also provides trackers for tracking additional objects in the real world into VR.
 
-## Install
+## Clone Hubs Repository 
 
 In order to playback hubs avatars via the querystring parameter ?bot=true we first need to install some tools (github, nodejs, hubs-master, some node libraries)
 
@@ -40,6 +40,9 @@ In order to playback hubs avatars via the querystring parameter ?bot=true we fir
 > git clone https://github.com/mozilla/hubs/
 
 6. Change directory to [your repo directory]/scripts/bot
+
+7. Run Puppeteer script  
+> node run-bot.js --url=hubs.mozilla.com/[your room] --audio=[your].mp3 --data=[your].json
 
 ## Peppers Holosuite - Hubs Avatar Recorder
 
