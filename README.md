@@ -52,13 +52,14 @@ coming soon: Export Filter (Formations, Slow Motion, Time Lapse)
 
 Install: 
 1. Download [Hubs Avatar Recorder](https://phsuite.de/downloads/har.zip) and unpack the content into a folder of your choice
-2. Download and install [SteamVR] (https://store.steampowered.com/app/250820/SteamVR/)
+2. Download and install [SteamVR](https://store.steampowered.com/app/250820/SteamVR/)
 3. Turn on your HTC Vive Hardware and launch har.exe
 
 Configuration:
-
-
-Hint: Before you start Motion Capturing make sure the controllers/trackers are in the correct hand!
+1. Choose any HTC Vive Devices (HMD, Controller, Tracker) and assign them to Avatars Head and Hands. (Hint: Before you start Motion Capturing make sure the controllers/trackers are in the correct hand!)
+2. Choose Audio Capture Device
+3. Set Length of Audio Recording (if you record beyond the limit the beginning will be overwritten)
+4. Hit start
 
 Warranty:
 Peppers Holosuite - Hubs Avatar Recorder is currently developed at the Akademie für Theater und Digitalität Dortmund. We do not warrant that this pre-release software will meet your requirements, the operation or output of the pre-release software will be error-free, accurate, reliable, complete or uninterrupted. Peppers Holosuite is not obligated to support, update or upgrade the Pre-Release Software.
