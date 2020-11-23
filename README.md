@@ -48,7 +48,7 @@ In order to playback hubs avatars via the querystring parameter ?bot=true we fir
 Features: Motion Capturing, Audio Recording (experimental), Import/Export to Mozilla Hubs Replay compatible .json (converting left handed -> right handed coordinate system)
 coming soon: Export Filter (Formations, Slow Motion, Time Lapse)
 
-
+![Preferences](/images/preferences.png)
 
 Install: 
 1. Download [Hubs Avatar Recorder](https://phsuite.de/downloads/har.zip) and unpack the content into a folder of your choice
