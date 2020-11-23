@@ -40,3 +40,14 @@ In order to playback hubs avatars via the querystring parameter ?bot=true we fir
 > git clone https://github.com/mozilla/hubs/
 
 6. Change directory to [your repo directory]/scripts/bot
+
+## Peppers Holosuite - Hubs Avatar Recorder
+
+[Requirements] Windows 10 [for 3D Motion Capturing] VR capable 3D graphics card, HTC Vive System, SteamVR
+
+Features: Motion Capturing, Audio Recording (experimental), Import/Export to Mozilla Hubs Replay compatible .json (converting left handed -> right handed coordinate system)
+coming soon: Export Filter (Formations, Slow Motion, Time Lapse)
+
+Install: Download 
+
+Hint: Before you start Motion Capturing make sure the controllers/trackers are in the correct hand!
